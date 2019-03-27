@@ -1,4 +1,4 @@
-#CubixMC - Launcher | Bootstrap
+# CubixMC - Launcher | Bootstrap
 
 ## Libs used (from Litarvan)
 
